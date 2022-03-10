@@ -1,0 +1,11 @@
+{
+  "name": "agsol-gold-client",
+  "version": "0.0.0-alpha",
+  "files": [
+    "index_bg.wasm",
+    "index.js",
+    "index.d.ts"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts"
+}
